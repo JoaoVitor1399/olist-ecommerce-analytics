@@ -1,0 +1,24 @@
+
+# Ambiente virtual do Python
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Configurações locais
+.env
+.vscode/
+.idea/
+
+# Arquivos temporários de notebooks
+.ipynb_checkpoints/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Dados brutos e banco de dados local
+data/raw/
+data/processed/olist_analytics.db
